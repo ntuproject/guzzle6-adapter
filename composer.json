@@ -18,7 +18,7 @@
         "php": "^7.3",
         "php-http/httplug": "^2.0",
         "psr/http-client": "^1.0",
-        "guzzlehttp/guzzle": "^6.5|^7.3|^8.0"
+        "guzzlehttp/guzzle": "^7.3|^8.0"
     },
     "require-dev": {
         "ext-curl": "*",
